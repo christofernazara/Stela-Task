@@ -6,7 +6,7 @@ function App() {
     <div className="App">
         <BrowserRouter>
           <Routes>
-            <Route path="/" element={<TodoPage />}>
+            <Route path="/Stela-Task" element={<TodoPage />}>
             </Route>
           </Routes>
         </BrowserRouter>
